@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "get up early",
+      "detail": "detail01",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "exercise",
+      "detail": "detail02",
+      "complete": false
+    },
+    {
+      "title": "Drink water",
+      "detail": "Detail03",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
